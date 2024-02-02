@@ -57,7 +57,7 @@
 
         left-sticky-alt {
             bindings = <&sk LEFT_ALT>;
-            key-positions = <11>;
+            key-positions = <11 31>;
         };
 
         left-sticky-gui {
